@@ -10,6 +10,7 @@
 
 .klaviyo-script{
     padding-bottom: 24px !important;
+    background-color: #fff;
 }
 
 .klaviyo-script div:nth-child(1) div p{
@@ -33,6 +34,7 @@
        font-size: 18px;
        position: relative;
        margin: 0;
+        padding: 0 24px 24px;
     }
 
     .klaviyo-script div:nth-child(1) div p::after{
@@ -62,6 +64,7 @@
 
     .klaviyo-script{
         border: 1px solid #304F6C1A;
+        padding-bottom: 10px !important;
     }
 
     .dsp-none{
@@ -74,6 +77,7 @@
 
     .klaviyo-script .needsclick.dsp-block .klaviyo-form{
         display: flex !important;
+        padding: 0 22px 32px 18px !important;
     }
 }
 
