@@ -91,6 +91,10 @@
     height: 449px;
 }
 
+.blog-details.has-bullets ul {
+    list-style: disc !important;
+}
+
 @media screen and (width <= 768px) {
     .section.width-60 > div:first-child {
         width: 100%;
